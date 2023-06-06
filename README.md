@@ -2,6 +2,8 @@
 
 [Project Video](https://youtu.be/YWfjeZSYTmc)
 
+[code](https://github.com/spoonk/birds/blob/main/455-final-project(1).ipynb)
+
 # Problem Description
 
 I chose to participate in CSE 455’s bi-annual bird classification competition. The goal of this competitions is to come up with a method for identifying the species of a bird. This type of problem typically involves training a neural network to make predictions, which is the approach that I decided to use. 
