@@ -49,3 +49,7 @@ If I had more time, I would create my own CNN and train it from scratch. I am cu
 ## How does my approach differ from others? Was that beneficial?
 
 I decided to do transfer learning when I could have trained a model from scratch. I think that this did benefit me because I do not have much experience training models from scratch, and I would have doubted the architecture I chose for my custom model. Using transfer learning allowed me to trust the model architecture and focus on the hyperparameters. However, I wasn’t able to achieve a high accuracy using transfer learning so maybe the from-scratch approach would have been better
+
+# Demo
+I created a figure to showcase some predictions from the model on the test set. In the left column are images from the test set, in the middle column is the species that the model thinks the image belongs to, and in the right column are example images from the predicted class. As we can see, 3 / 4 predictions look correct. The final prediction is wrong, but  there are commen elements between the birds so we can understand the model's mistake. 
+
