@@ -53,3 +53,5 @@ I decided to do transfer learning when I could have trained a model from scratch
 # Demo
 I created a figure to showcase some predictions from the model on the test set. In the left column are images from the test set, in the middle column is the species that the model thinks the image belongs to, and in the right column are example images from the predicted class. As we can see, 3 / 4 predictions look correct. The final prediction is wrong, but  there are commen elements between the birds so we can understand the model's mistake. 
 
+![figure showing model predictions](./demo.png)
+
